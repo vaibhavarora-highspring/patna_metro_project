@@ -1,0 +1,2 @@
+id,start_station,end_station,stations_between,distance,duration,interchanges,fare,first_train,last_train
+1,Patna Junction,Patliputra,"Akashvani, Gandhi Maidan, PMCH, Moin-ul-Haq Stadium",6.0,15,1,50,06:00 AM,10:30 PM
